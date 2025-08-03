@@ -1,2 +1,25 @@
-# nodes
-Pastebin on Cloudflare worker, with friendly CLI usage and rich features
+# 免费节点每日分享 ✨
+
+本项目致力于每日分享免费可用的代理节点（包括 V2Ray / Shadowsocks / Trojan 等），帮助大家自由、安全地访问互联网。
+
+## 📌 项目特点
+
+- 🚀 每日更新优质节点
+- 📦 支持多种协议（V2Ray / Shadowsocks / Trojan）
+- 🔒 所有节点均来源于互联网公开资源
+- 🆓 完全免费，无需注册，无需登录
+
+## 🛠 使用方式
+
+你可以通过以下几种方式使用这些节点：
+
+### 1. 手动导入
+
+- 下载最新订阅链接或节点配置文件（格式通常为 `.txt` / `.yaml` / `.json`）。
+- 打开你喜欢的代理客户端（如 Clash / Shadowrocket / V2rayN）。
+- 将配置导入并启用节点。
+
+### 2. 订阅链接导入
+
+部分仓库会提供 Clash/V2Ray 的订阅链接：
+
